@@ -1,0 +1,33 @@
+body{
+  background:#E8B29E;
+
+}
+
+div{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+
+h1 {
+  border-style: dashed;
+  color: purple;
+
+}
+
+h2 {
+  border-style: double;
+  color: green;
+}
+
+h3 {
+  border-style:dotted;
+
+}
+
+article {
+  border-style: double;
+  border-color: #000;
+  border-width: thick;
+}

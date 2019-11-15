@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Liu+Jian+Mao+Cao&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Tomorrow&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe&display=swap');
+
+
+
+h1 {
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 70px;
+
+}
+
+
+p1{
+  color: purple;
+}
+h2 {font-family: 'Tomorrow';
+font-size: 70px;
+}
+p1{
+  color: white
+}
+h3 {
+  color: white;
+  font-size: 70px;
+font-family: 'ZCOOL KuaiLe', cursive;
+
+}
+
+p3 {green;
+}
+
+h5 { font-family: 'Great Vibes', cursive;
+font-size: 70px;
+color: blue;
+border-style: solid;}
+
+article {
+  font-family: 'Liu Jian Mao Cao', cursive;
+  color: blue;
+  font-size: 20px;
+}
+
+section "fable01" {color: green;}
